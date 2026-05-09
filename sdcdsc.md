@@ -15,4 +15,4 @@ es un lenguaje versatily flexible diseñado  para mejorar la experencia del usua
 #### conclusion
 ***javscrip es esencial para el desarollo de una web funcionando con html funcionando junto con html y css.***
 conclusion
-pienso que javcrip se utizo para que los navegadores tuvieran mas velocidad y conectarse mas al usuario  para crear paginas mas interactivas y dinamicas
+pienso que javcrip se utizo para que los navegadores tuvieran mas velocidad y conectarse mas al usuario  para crear paginas mas interactivas y dinamicas***
