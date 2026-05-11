@@ -1,7 +1,7 @@
 
 #  html css
 ## introduccion
-***hoy veremos lo que es html css su historia y que es***
+***hoy veremos lo que es html css su historia***
 
 ![alt](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png)
 
